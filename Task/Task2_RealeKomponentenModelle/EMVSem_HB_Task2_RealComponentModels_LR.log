@@ -1,0 +1,30 @@
+Circuit: * F:\OneDrive - rwth-aachen.de\RWTH Aachen\Seminar-- ELectro Magnet in Power Electronics\Simulation model\moodle\Task2_RealeKomponentenModelle\EMVSem_HB_Task2_RealComponentModels_LR.asc
+
+C1: Increased Cpar to 3.3e-011
+Limiting rise time of source v3 to 5e-006
+Limiting fall time of source v3 to 5e-006
+Limiting rise time of source v2 to 5e-006
+Limiting fall time of source v2 to 5e-006
+.OP point found by inspection.
+.step lr=1e-009
+.step lr=5e-007
+.step lr=0.0005
+.step lr=0.0025
+
+Date: Fri Jan 08 01:46:36 2021
+Total elapsed time: 6.446 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 321024
+traniter = 321024
+tranpoints = 102777
+accept = 75545
+rejected = 27232
+matrix size = 19
+fillins = 5
+solver = Normal
+Matrix Compiler1: 1.27 KB object code size  0.6/0.3/[0.2]
+Matrix Compiler2: 1.51 KB object code size  0.2/0.3/[0.2]
+

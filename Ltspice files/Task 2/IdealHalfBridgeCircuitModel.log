@@ -1,0 +1,68 @@
+Circuit: * F:\OneDrive - rwth-aachen.de\RWTH Aachen\Seminar-- ELectro Magnet in Power Electronics\Ltspice files\Task 2\IdealHalfBridgeCircuitModel.asc
+
+C4: Increased Cpar to 3.3e-011
+Cr: Increased Cpar to 1e-015
+Limiting rise time of source v§ls_driver to 5e-006
+Limiting fall time of source v§ls_driver to 5e-006
+Limiting rise time of source v§hs_driver to 5e-006
+Limiting fall time of source v§hs_driver to 5e-006
+.OP point found by inspection.
+.step l=1e-009 cr=1e-009
+Heightened Def Con from 5.70171e-006 to 5.70571e-006
+Heightened Def Con from 5.77461e-006 to 5.77973e-006
+Heightened Def Con from 5.7872e-006 to 5.78833e-006
+Heightened Def Con from 5.87377e-006 to 5.8759e-006
+Heightened Def Con from 6.25863e-006 to 6.26163e-006
+Heightened Def Con from 6.77103e-006 to 6.77303e-006
+Heightened Def Con from 2.01649e-005 to 2.01689e-005
+Heightened Def Con from 2.0178e-005 to 2.01783e-005
+Heightened Def Con from 2.03951e-005 to 2.03954e-005
+Heightened Def Con from 2.05032e-005 to 2.05064e-005
+Heightened Def Con from 2.05748e-005 to 2.05752e-005
+Heightened Def Con from 2.05923e-005 to 2.05926e-005
+Heightened Def Con from 2.0996e-005 to 2.1002e-005
+Heightened Def Con from 2.1151e-005 to 2.11541e-005
+Heightened Def Con from 2.11901e-005 to 2.11932e-005
+Heightened Def Con from 2.14839e-005 to 2.14843e-005
+Heightened Def Con from 2.17718e-005 to 2.17721e-005
+Heightened Def Con from 2.19391e-005 to 2.19421e-005
+Heightened Def Con from 2.26948e-005 to 2.26978e-005
+Heightened Def Con from 2.35594e-005 to 2.35624e-005
+Heightened Def Con from 2.43232e-005 to 2.43243e-005
+Heightened Def Con from 0.00085 to 0.000850003
+Heightened Def Con from 0.00275 to 0.00275
+Heightened Def Con from 0.00291121 to 0.00291121
+Heightened Def Con from 0.00485 to 0.00485
+Heightened Def Con from 0.00491001 to 0.00491001
+Heightened Def Con from 0.00955 ++to 0.00955
+Heightened Def Con from 0.00955 to 0.00955
+Heightened Def Con from 0.01021 to 0.01021
+.step l=5e-007 cr=1e-009
+.step l=0.0005 cr=1e-009
+.step l=0.0025 cr=1e-009
+.step l=1e-009 cr=5e-007
+.step l=5e-007 cr=5e-007
+.step l=0.0005 cr=5e-007
+.step l=0.0025 cr=5e-007
+.step l=1e-009 cr=1e-005
+.step l=5e-007 cr=1e-005
+.step l=0.0005 cr=1e-005
+.step l=0.0025 cr=1e-005
+
+Date: Wed Nov 25 08:14:57 2020
+Total elapsed time: 240.317 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 5073232
+traniter = 5073232
+tranpoints = 1018352
+accept = 763675
+rejected = 254691
+matrix size = 19
+fillins = 4
+solver = Normal
+Matrix Compiler1: 1.22 KB object code size  0.7/0.2/[0.2]
+Matrix Compiler2: 1.54 KB object code size  0.3/0.3/[0.1]
+

@@ -1,0 +1,32 @@
+Circuit: * F:\OneDrive - rwth-aachen.de\RWTH Aachen\Seminar-- ELectro Magnet in Power Electronics\Ltspice files\Task 1\IdealHalfBridgeCircuitModel.asc
+
+Error on line 8 : r_load n004 0 150 ohm
+	 Unknown parameter "ohm"
+Limiting rise time of source v§ls_driver to 5e-006
+Limiting fall time of source v§ls_driver to 5e-006
+Limiting rise time of source v§hs_driver to 5e-006
+Limiting fall time of source v§hs_driver to 5e-006
+.OP point found by inspection.
+Heightened Def Con from 0.00371001 to 0.00371001
+Heightened Def Con from 0.00381001 to 0.00381001
+Heightened Def Con from 0.00395 to 0.00395
+Heightened Def Con from 0.00395 +to 0.00395
+Heightened Def Con from 0.00395 to 0.00395
+
+Date: Tue Nov 24 15:32:51 2020
+Total elapsed time: 1.330 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 170334
+traniter = 170334
+tranpoints = 50736
+accept = 38870
+rejected = 11872
+matrix size = 16
+fillins = 4
+solver = Normal
+Matrix Compiler1: 1.01 KB object code size  0.7/0.3/[0.2]
+Matrix Compiler2: 1.29 KB object code size  0.2/0.5/[0.2]
+
